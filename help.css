@@ -1,0 +1,21 @@
+
+label{
+    font-size: 200%;
+}
+input[type=text] {
+    border: 25px;
+    border-block: 2px solid red;
+    color: rgb(1, 1, 24);
+  }
+  input[type=submit] {
+    border: yellow;
+    border-block: 2px solid green;
+    color: rgb(9, 183, 241);
+  }
+h1{
+    color: aqua;
+    font-size: 500%;
+    display: block;
+    border-bottom-color: chartreuse;
+    border-style: solid;
+}
